@@ -14,7 +14,7 @@ Run the main.py code. The pygame window will open, press on it and using the arr
 Please read the DOC strings in the code for better visualisation and understanding.
 
 # Directory Structure
-Directory Structure:
+
 AdvCodProject/
 │
 ├── main.py                    
@@ -23,6 +23,8 @@ AdvCodProject/
 ├── utilities.py
 ├── apple.png
 └── snakehead.png
+└── setup.py
+
 
 
 **#Note**
