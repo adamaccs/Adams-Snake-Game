@@ -13,6 +13,18 @@ How to play:
 Run the main.py code. The pygame window will open, press on it and using the arrows on your keyboard or the WASD keys, select a direction to go. Get to the apple and once the snake head reaches the apple your score will increase by 1 and another apple will be placed. Avoid the borders of the grid as well as colliding the snake head with it’s body. Because if you collide with them the game will end. Please press 1 key at once, as pressing 2 keys at once could result in the game ending depending on the circumstances. Last but not least, aim to eat as many apples as possible and have fun!
 Please read the DOC strings in the code for better visualisation and understanding.
 
+# Directory Structure
+Directory Structure:
+AdvCodProject/
+│
+├── main.py                    
+├── snakegame.py   
+├── gamebase.py             
+├── utilities.py
+├── apple.png
+└── snakehead.png
+
+
 **#Note**
 If you run the game and it prints out “ Final score 0 “ without you playing, just run it again and it will work.
 
